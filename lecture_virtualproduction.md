@@ -34,7 +34,7 @@ layout:false
 
 .center[
  <video width="1024" controls>
-  <source src="./img/mandalorian_cutout_01.mp4" type="video/webm">
+  <source src="./img/mandalorian_cutout_01.webm" type="video/webm">
 </video>  
 ]
 
@@ -63,31 +63,15 @@ layout:false
 
 
 ---
-## Who am I?
+layout:false
 
---
+## Introduction
 
-* Master in Fine Art (MFA Dramatic Media)
-* 6 years in the industry (VFX, R&D, Software Development)
-* Phd in Computer Science (Dr. rer. nat. Computer Graphic)
-
---
-
-<br />
-
-* Film University Babelsberg KONRAD WOLF, Potsdam, Germany
-* Professor for Image-based Media Technologies
-* MA Creative Technologies
-
---
+* [Lena Gieseke ⬀](https://www.lenagieseke.com/)
+* [Film University Babelsberg KONRAD WOLF ⬀](https://www.filmuniversitaet.de/), Potsdam, Germany
+* [MA Creative Technologies ⬀](https://www.filmuniversitaet.de/en/studies/study-programs/master-programs/creative-technologies) (Instagram: [ctech.filmuniversity ⬀](https://www.instagram.com/ctech.filmuniversity/))
 
 > Computer Science meets Creativity, Art & Film...
-
-
-???
-.center[[<img src="./img/qr_filmunictech.png" alt="qr_filmunictech" style="width:45%;">](https://www.filmuniversitaet.de/en/studies/study-programs/master-programs/creative-technologies)]
-
-.center[[<img src="./img/qr_filmuniinsta.png" alt="qr_filmuniinsta" style="width:45%;">](https://www.instagram.com/ctech.filmuniversity/)]
 
 
 ---
@@ -385,7 +369,7 @@ Techvis (technical visualization) is the process of digitally pre-planning how a
 
 .right-quarter[
     <video width="720" controls>
-        <source src="./img/videomatic_01.mp4" type="video/webm">
+        <source src="./img/videomatic_01.webm" type="video/webm">
     </video>  
 ]
 
@@ -409,7 +393,7 @@ Techvis (technical visualization) is the process of digitally pre-planning how a
 
 .right-quarter[
     <video width="720" controls>
-        <source src="./img/mandalorian_previs_cutout_01.mp4" type="video/webm">
+        <source src="./img/mandalorian_previs_cutout_01.webm" type="video/webm">
     </video>  
 ]
 
@@ -450,7 +434,7 @@ Techvis (technical visualization) is the process of digitally pre-planning how a
 
 .right-quarter[
     <video width="720" controls>
-        <source src="./img/techvis_01.mp4" type="video/webm">
+        <source src="./img/techvis_01.webm" type="video/webm">
     </video>  
 ]
 
@@ -582,7 +566,7 @@ With this technique, live-action shooting takes place on a huge LED stage or vol
 
 .center[
     <video width="720" controls>
-        <source src="./img/icvfx_01.mp4" type="video/webm">
+        <source src="./img/icvfx_01.webm" type="video/webm">
     </video>  
 ]
 
@@ -1145,7 +1129,7 @@ template:inverse
 
 .center[
  <video width="1000" controls>
-  <source src="./img/mandalorian_01.mp4" type="video/webm">
+  <source src="./img/mandalorian_01.webm" type="video/webm">
 </video>  
 ]
 
@@ -1154,10 +1138,6 @@ template:inverse
 
 ---
 template:inverse 
-
-.center[
-<img src="./img/qr_lectureresiduals.png" style="width:20%;">
-]
 
 
 # *The End*
